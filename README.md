@@ -1,1 +1,1 @@
-# Matrix Multiplication of Order N x N
+# Multiplication of Two Matrices of Order M x N
