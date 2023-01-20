@@ -3,10 +3,15 @@
 Example:
 
 Enter the rows and columns of the First matrix: 5 6
+
 Enter the rows and columns of the Second matrix: 6 7
+
 Enter the elements of the First Matrix: 
+
 Enter the value of element (1,1) :3
+
 Enter the value of element (1,2) :4
+
 5Enter the value of element (1,3) :5
 Enter the value of element (1,4) :5
 Enter the value of element (1,5) :6
