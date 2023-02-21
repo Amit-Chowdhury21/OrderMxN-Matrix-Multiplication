@@ -98,6 +98,5 @@ int main()
   cout<<"The number of columns of the First matrix is not same as number of Rows of the Second matrix. Hence Matrix Multiplication is not possible."<<endl;
   
   return 0;
-
  
 }
